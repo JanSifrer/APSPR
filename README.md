@@ -1,1 +1,1 @@
-# APSPR
+# Analiza podatkov s programom R
